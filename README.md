@@ -1,7 +1,9 @@
 # DH150-2019F-demo
-Heuristics Evaluation of MyFitnessPal
+Heuristics Evaluation of MyFitnessPal (app)
 
-By  Vivek Menon	  Date  10/15/2019
+By:  Vivek Menon
+Digital Humanites 150
+Date:  10/15/2019
 
 Template by Rutger University’s
 http://aspoerri.comminfo.rutgers.edu/Teaching/InfoVisOnline/HEtemplate.doc
