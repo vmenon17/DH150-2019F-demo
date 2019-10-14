@@ -2,7 +2,7 @@
 Heuristics Evaluation of MyFitnessPal (app)
 
 By:  Vivek Menon
-Digital Humanites 150
+\nDigital Humanites 150
 Date:  10/15/2019
 
 Template by Rutger University’s
