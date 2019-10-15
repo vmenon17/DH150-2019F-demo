@@ -1,4 +1,4 @@
-# DH150-2019F-heuristic
+# DH150-2019F-heuristics
 Heuristics Evaluation of MyFitnessPal (app)
 
 By:  Vivek Menon
