@@ -2,15 +2,17 @@
 Heuristics Evaluation of MyFitnessPal (app)
 
 By:  Vivek Menon
+
 Digital Humanites 150
+
 Date:  10/15/2019
 
-The MyFitnessPal app allows users to input and track the nutrition facts on food they intake on a daily basis, and allows users to input the exercise they do to show how much physical activity they get daily. 
+The MyFitnessPal app allows users to input and track the nutrition facts on food they intake on a daily basis, and allows users to input the exercise they do to show how much physical activity they get daily. As an overall evaluation, the app performs well in some heuristics, but definitely needs improvement in many others like error prevention, user control/freedom, and flexibility/efficiency of use for example.
 
 Template by Rutger University’s
 http://aspoerri.comminfo.rutgers.edu/Teaching/InfoVisOnline/HEtemplate.doc
 
-**1. Visibility of system status**
+**1. Visibility of system status:**
 Always keep users informed about what is going on.
 Provide appropriate feedback within reasonable time. 
 
@@ -22,11 +24,16 @@ Severity Rating: 1
 ![home page](https://www.pastepic.xyz/images/2019/10/15/imagefb5ce70f40d80860.png)
 
 
-**2. Match between system and the real world** 
+**2. Match between system and the real world:**
 Speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. 
 Follow real-world conventions, making information appear in a natural and logical order. 
 
 Evaluation:
+As mentioned before, the app tries to employ conventional terminology to its menu options ("Home", "Diary", "Progress"). While the terms are familiar, the "Diary" option might be confusing to users initially, since most people associate diaries with personal items they express their feelings in. In the app however, a diary refers to the record of meals that the user eats daily. 
+
+Severity Rating: 2 
+
+![diary](https://www.pastepic.xyz/images/2019/10/15/image47324e2ae7498622.png)
 
 
 **3. User control and freedom** 
@@ -41,19 +48,19 @@ Severity Rating: 2
 
 ![delete](https://www.pastepic.xyz/images/2019/10/15/imagebf2357a35fa3e4f1.png)
 
-**4. Consistency and standards** 
+**4. Consistency and standards:** 
 Users should not have to wonder whether different words, situations, or actions mean the same thing. 
 Follow platform conventions. 
 
 Evaluation:
-The app tries to employ conventional terminology to its menu options ("Home", "Diary", "Progress"). While the terms are familiar, the "Diary" option might be confusing to users initially, since most people associate diaries with personal items they express their feelings in. In the app however, a diary refers to the record of meals that the user eats daily. 
+As mentioned before, the app tries to employ conventional terminology to its menu options ("Home", "Diary", "Progress"). While the terms are familiar, the "Diary" option might be confusing to users initially, since most people associate diaries with personal items they express their feelings in. In the app however, a diary refers to the record of meals that the user eats daily. 
 
 Severity Rating: 2 
 
 ![diary](https://www.pastepic.xyz/images/2019/10/15/image47324e2ae7498622.png)
 
 
-**5. Error prevention** 
+**5. Error prevention:** 
 Even better than good error messages is a careful design which prevents a problem from occurring in the first place. 
 
 Evaluation:
@@ -64,16 +71,20 @@ Severity Rating: 3
 ![squash](https://www.pastepic.xyz/images/2019/10/15/image547fa5bb7b79ecf2.png)
 
 
-**6. Recognition rather than recall** 
+**6. Recognition rather than recall:** 
 Make objects, actions, and options visible. 
 User should not have to remember information from one part of the dialogue to another. 
 Instructions for use of the system should be visible or easily retrievable whenever appropriate. 
 
 Evaluation:
+While the basic features of the app are apparent and visible, many other useful features take a bit of digging to discover and use. For example, the recipies page is extremely useful, but I only discovered the page after a few days of using the app. In addition to this page, there are many more helpful pages in the "more" section of the app, which many people don't access that much. 
+
+Severity Rating: 2
+
+![more](https://www.pastepic.xyz/images/2019/10/15/image626e41b77189958e.png)
 
 
-
-**7. Flexibility and efficiency of use** 
+**7. Flexibility and efficiency of use:** 
 Accelerators -- unseen by the novice user -- may often speed up the interaction for the expert user so that the system can cater to both inexperienced and experienced users. 
 Allow users to tailor frequent actions. 
 
@@ -85,26 +96,39 @@ Severity Rating: 3
 ![home page](https://www.pastepic.xyz/images/2019/10/15/imagefb5ce70f40d80860.png)
 
 
-8. Aesthetic and minimalist design 
+**8. Aesthetic and minimalist design:** 
 Dialogues should not contain information which is irrelevant or rarely needed. 
 Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility. 
 
-Evaluation
+Evaluation:
+The app does a great job of keeping dialogues short and relevant, especially considering that talking about nutrition facts can become convoluted and confusing to those who don't know much about them. The app sticks to what they believe people find most important when looking at food, and supplements the text with nice data visualizations to further ease the experience of the user. 
+
+Severity Rating: 1
+
+![diary](https://www.pastepic.xyz/images/2019/10/15/image47324e2ae7498622.png)
 
 
-
-9. Help users recognize, diagnose, and recover from errors 
+**9. Help users recognize, diagnose, and recover from errors:** 
 Expressed in plain language (no codes)
 Precisely indicate the problem
 Constructively suggest a solution. 
 
-Evaluation
+Evaluation:
+The app does a good job of expressing errors and how to fix them. As a test, I chose to input my weight as 9000 pounds. The app gave me an error message that asked me to input a valid weight, allowing me to understand exactly what my problem is and how I can fix my problem. 
+
+Severity Rating: 1
+
+![error](https://www.pastepic.xyz/images/2019/10/15/image218c45b6e707fdf9.png)
 
 
-10. Help and documentation 
+**10. Help and documentation:** 
 Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. 
 Help  information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large. 
 
-Evaluation
+Evaluation:
+The app contains a vast base of articles based on frequently asked questions. Even beyond this, the app offers a customer support chat that you can ask specific questions to. The articles are divided into different categories based on the area of the app the question deals with. Within the articles, the steps to solve problems are clearly laid out, even separated into different sections for users on the desktop version versus the mobile version of MyFitnessPal. 
 
+Severity Rating: 1
+
+![help](https://www.pastepic.xyz/images/2019/10/15/image4c1093f12e157d03.png)
 
