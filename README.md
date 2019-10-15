@@ -19,7 +19,7 @@ MyFitnessPal does an excellent job of displaying data in terms of tracking how m
 
 Severity Rating: 1
 
-![home page](~/users/Vivek/Downloads/myfit_homepage.jpg)
+![home page](https://www.pastepic.xyz/images/2019/10/15/imagefb5ce70f40d80860.png)
 
 
 **2. Match between system and the real world** 
